@@ -17,7 +17,8 @@ My Stacks
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat-square&logo=express&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-dd4814?style=flat-square&logo=codeigniter&logoColor=white" />
-  <img alt="Codeigniter" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" /> 
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" /> 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
 </div>
 
 
