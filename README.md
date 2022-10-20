@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My Stacks
+[![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg)
+
 <!--
 **shabiqghazi/shabiqghazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
