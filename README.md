@@ -11,7 +11,7 @@ My Stacks
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-0f9ee1?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-0f9ee1?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
