@@ -21,6 +21,7 @@
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-dd4814?style=flat-square&logo=codeigniter&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" /> 
   </div>
+  
   ### Other Tools
   <div>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
