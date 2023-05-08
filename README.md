@@ -1,4 +1,5 @@
 ## Hi there 👋
+Tentang saya, saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan mengeksplorasi bidang software engineering. Saya sangat antusias dengan bahasa pemrograman, kerangka kerja, dan teknologi terbaru. Kemampuan saya dalam memecahkan masalah teknis dan kemampuan untuk bekerja sama dalam tim telah membantu saya terus tumbuh dalam karir saya. Saya senang menghadapi tantangan baru dan percaya bahwa semangat belajar yang kuat akan membawa saya menuju kesuksesan di bidang ini.
 
 ## My Tech Stacks
   ### Front-end
