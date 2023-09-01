@@ -18,7 +18,7 @@ Tentang saya, saya merupakan pribadi yang terus mendorong diri untuk belajar hal
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> 
-  <img alt="JSON Web Token" src="https://img.shields.io/badge/JSON_Web_Token-black?style=flat-square&logo=JSON%20web%20tokens" /> 
+  <img alt="JSON Web Token" src="https://img.shields.io/badge/-JSON_Web_Token-black?style=flat-square&logo=JSON%20web%20tokens" /> 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
