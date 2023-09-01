@@ -24,7 +24,7 @@ Tentang saya, saya merupakan pribadi yang terus mendorong diri untuk belajar hal
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F24E1E?style=flat-square&logo=github&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-211F1F?style=flat-square&logo=github&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FC6D27?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
