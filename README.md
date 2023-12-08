@@ -1,5 +1,5 @@
 ## Hi there 👋
-Tentang saya, saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan mengeksplorasi bidang software engineering. Saya sangat antusias dengan bahasa pemrograman, kerangka kerja, dan teknologi terbaru. Kemampuan saya dalam memecahkan masalah teknis dan kemampuan untuk bekerja sama dalam tim telah membantu saya terus tumbuh dalam karir saya. Saya senang menghadapi tantangan baru dan percaya bahwa semangat belajar yang kuat akan membawa saya menuju kesuksesan di bidang ini.
+Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan mengeksplorasi bidang software engineering. Saya sangat antusias dengan bahasa pemrograman, kerangka kerja, dan teknologi terbaru. Kemampuan saya dalam memecahkan masalah teknis dan kemampuan untuk bekerja sama dalam tim telah membantu saya terus tumbuh dalam karir saya. Saya senang menghadapi tantangan baru dan percaya bahwa semangat belajar yang kuat akan membawa saya menuju kesuksesan di bidang ini.
 
 ## My Tech Stacks
   <div>
@@ -33,19 +33,14 @@ Tentang saya, saya merupakan pribadi yang terus mendorong diri untuk belajar hal
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   </div>
 
+## fyi
 
-
-<!--
-**shabiqghazi/shabiqghazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Book Publishing App Development
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: <a href="mailto:shabiqghazi@gmail.com">Mail to: shabiqghazi@gmail.com</a>
+<!-- - 👯 I’m looking to collaborate on Bitread Digital Publishing 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
