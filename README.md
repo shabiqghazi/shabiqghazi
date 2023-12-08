@@ -11,6 +11,7 @@ Tentang saya, saya merupakan pribadi yang terus mendorong diri untuk belajar hal
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next-171717?style=flat&logo=Next.js&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat&logo=php&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat&logo=express&logoColor=white" />
