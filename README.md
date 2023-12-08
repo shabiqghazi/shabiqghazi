@@ -29,7 +29,7 @@ Tentang saya, saya merupakan pribadi yang terus mendorong diri untuk belajar hal
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-211F1F?style=flat&logo=github&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FC6D27?style=flat&logo=gitlab&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="Google Analytics" src="https://img.shields.io/badge/-Googla_Analytics-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="Google Analytics" src="https://img.shields.io/badge/-Googla_Analytics-F05032?style=flat&logo=google%20analytics&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   </div>
 
