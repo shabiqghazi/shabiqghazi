@@ -13,7 +13,9 @@ Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan 
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next-171717?style=flat&logo=Next.js&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-41b883?style=flat&logo=Nuxt.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-f9b233?style=flat&logo=python&logoColor=2462f0" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat&logo=php&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat&logo=express&logoColor=white" />
   <img alt="hapi" src="https://img.shields.io/badge/-hapi-ed7d31?style=flat&logo=hapi&logoColor=white" />
@@ -30,7 +32,6 @@ Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-211F1F?style=flat&logo=github&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FC6D27?style=flat&logo=gitlab&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google_Analytics-FF7700?style=flat&logo=google%20analytics&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   </div>
