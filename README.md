@@ -17,6 +17,7 @@ Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan 
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat&logo=php&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat&logo=tensorflow&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat&logo=express&logoColor=white" />
   <img alt="hapi" src="https://img.shields.io/badge/-hapi-ed7d31?style=flat&logo=hapi&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-dd4814?style=flat&logo=codeigniter&logoColor=white" />
