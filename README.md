@@ -30,6 +30,8 @@ Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Web Socket" src="https://img.shields.io/badge/-Web_Socket-CB3837?style=flat&logo=websocket&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759b?style=flat&logo=wordpress&logoColor=white" />
+  <img alt="Woocommerce" src="https://img.shields.io/badge/-Wooocommerce-96588a?style=flat&logo=woocommerce&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
