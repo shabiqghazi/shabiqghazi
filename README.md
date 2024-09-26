@@ -10,6 +10,7 @@ Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan 
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat&logo=jquery&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-042B59?style=flat&logo=flutter&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next-171717?style=flat&logo=Next.js&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt-41b883?style=flat&logo=Nuxt.js&logoColor=white" />
