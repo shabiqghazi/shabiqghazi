@@ -44,8 +44,7 @@ Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan 
 
 ## fyi
 
-- 🔭 I’m currently working on Book Publishing App Development
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working in BTS.id (PT Intersolusi Teknologi Asia)
 - 📫 How to reach me: <a href="mailto:shabiqghazi@gmail.com">Mail to: shabiqghazi@gmail.com</a>
 <!-- - 👯 I’m looking to collaborate on Bitread Digital Publishing 
 - 🤔 I’m looking for help with ...
