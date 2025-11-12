@@ -45,7 +45,7 @@ Saya merupakan pribadi yang terus mendorong diri untuk belajar hal-hal baru dan 
 ## fyi
 
 - 🔭 I’m currently working in BTS.id (PT Intersolusi Teknologi Asia)
-- 📫 How to reach me: <a href="mailto:shabiqghazi@gmail.com">Mail to: shabiqghazi@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:contact@shabiqghazi.id">Mail to: contact@shabiqghazo.id</a>
 <!-- - 👯 I’m looking to collaborate on Bitread Digital Publishing 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
